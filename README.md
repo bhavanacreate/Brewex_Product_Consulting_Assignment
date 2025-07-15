@@ -21,8 +21,7 @@ Node.js & npm
 SQL Database (PostgreSQL/MySQL)
 
 Clone Repository
-
-git clone https://github.com/ibrahim9492/Brewex_Product_Consulting_Assignment.git
+git clone https://github.com/bhavanacreate/Brewex_Product_Consulting_Assignment
 
 cd Brewex_Product_Consulting_Assignment
 
